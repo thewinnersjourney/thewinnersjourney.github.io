@@ -1,0 +1,8 @@
+H1 { margin-top: 20px; }
+H1 small { font-size: 30%; position: relative; top: -25px;}
+
+.twj_orange { color: #ea640a; }
+
+.bt_20 { margin-bottom: 20px; }
+
+.container.home { max-width: 1024px !important; }
